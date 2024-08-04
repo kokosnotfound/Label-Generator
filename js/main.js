@@ -101,7 +101,7 @@ generateBtn.addEventListener("click", () => {
     warning: document.getElementById("warning-message").value,
   };
 
-  const doc = new jsPDF("landscape", "mm", [210, 38]);
+  const doc = new jsPDF("landscape", "mm", [210, 38], true);
 
   selectedOptions.forEach((option, index) => {
     const imageUrl = imageUrls[option];
@@ -110,7 +110,7 @@ generateBtn.addEventListener("click", () => {
       posY += imgSize + 2;
     }
 
-    doc.addImage(imageUrl, "PNG", posX, posY, imgSize, imgSize);
+    doc.addImage(imageUrl, "PNG", posX, posY, imgSize, imgSize, '', 'FAST');
 
     posX += imgSize + 5;
   });
