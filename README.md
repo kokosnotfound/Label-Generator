@@ -1,6 +1,6 @@
 # Chemistry Label Generator
 
-Welcome to the Chemistry Label Generator repository! This project provides a straightforward solution for generating chemical labels that can be easily printed and attached to bottles and containers. You can access and use the generator online by following the link [here](https://.com).
+Welcome to the Chemistry Label Generator repository! This project provides a straightforward solution for generating chemical labels that can be easily printed and attached to bottles and containers. You can access and use the generator online by following the link [here](http://kokosnotfound.me/Chemistry-Label-Generator/).
 
 ## Features
 
