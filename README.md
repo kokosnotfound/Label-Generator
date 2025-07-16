@@ -1,4 +1,4 @@
-# Chemistry Label Generator
+# Label Generator
 
 To start using the Chemistry Label Generator, you have two options:
 
@@ -11,7 +11,7 @@ To start using the Chemistry Label Generator, you have two options:
 6. If satisfied, you can print the label directly or save it as a PDF for future use.
 
 ### Option 2: Online Usage
-1. Visit [the online Chemistry Label Generator](https://kokosnotfound.github.io/Chemistry-Label-Generator/).
+1. Visit [the online Label Generator](https://kokosnotfound.github.io/Label-Generator/).
 2. Fill in the required fields, such as chemical name and hazard symbols.
 3. Click the "Generate Label" button.
 4. Review the generated label preview.
